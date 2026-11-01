@@ -1,12 +1,18 @@
-# Synthetic iGaming Game Metadata Source Data
+# Source Data
 
-This folder contains synthetic training data for an independent iGaming game metadata and data-quality project.
+This folder contains the synthetic input files used in the iGaming game metadata data-quality exercise.
 
-## Files
-- `incoming_provider_feed.csv` — 100 synthetic game records from five named providers.
-- `provider_reference.csv` — canonical provider names, accepted aliases, provider codes and supported game types for this simulation.
-- `market_reference.csv` — market codes used in the training dataset. These are illustrative training values, not legal or regulatory approval.
-- `data_dictionary.csv` — field definitions and suggested validation rules.
+| File | Description |
+|---|---|
+| `incoming_provider_feed.csv` | Original feed containing 100 simulated game records and 12 metadata fields. |
+| `provider_reference.csv` | Reference list of provider names, provider codes and aliases used during the exercise. |
+| `market_reference.csv` | Reference list of market codes accepted by the simulation. |
+| `data_dictionary.csv` | Field definitions and expected data characteristics used to guide validation. |
 
-## Important disclaimer
-All game titles, records, RTP values, market availability and intentional data-quality examples are synthetic. Real provider names are used only to make the exercise realistic. This dataset is not an actual provider feed, does not describe commercial integrations and must not be used to determine real market availability or compliance.
+## How the files are used
+
+The incoming feed is treated as the source dataset and is preserved unchanged. Reference files are used to investigate and validate values; they are not treated as proof of actual provider or market approvals.
+
+## Data disclaimer
+
+All records and reference rules are synthetic training examples. Provider names are included for illustrative purposes only. This folder does not contain actual provider feeds, confidential information or verified commercial data.
