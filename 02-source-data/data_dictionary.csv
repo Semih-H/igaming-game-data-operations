@@ -1,0 +1,13 @@
+field_name,definition,expected_format,validation_note
+game_id,Unique identifier for a game within the provider/platform dataset,Text,Required; should be unique
+game_name,Display name of the game,Text,Required
+provider,Company supplying/developing the game,Text,Required; standardise to canonical provider name
+product_type,"Top-level product family, e.g. Casino or Sportsbook",Text,Required
+game_type,"Specific game category, e.g. Slot or Live Casino",Text,Required; use approved labels
+rtp_percent,Theoretical return-to-player percentage where applicable,Number (%),Check plausible range and formatting; not applicable to every product
+volatility,Game volatility classification where applicable,Text,Use approved labels; may be N/A for some categories
+features,Key game mechanics/features,Text,Use consistent feature names
+release_date,Provider's game release date,Date (YYYY-MM-DD),Must be a valid date
+market_codes,Markets where the game is available/approved in this simulation,Semicolon-separated codes,Every code must exist in market reference
+mobile_supported,Whether mobile play is supported,Yes/No,Use Yes or No
+status,Current record status,Text,"Use Active, Inactive or Suspended"
