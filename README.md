@@ -165,4 +165,49 @@ A record could have multiple underlying issues; the handover categories represen
 The repository contains the following materials:
 
 ### Source Data
-- [Incoming Provider Feed](02
+- [Incoming Provider Feed](02-source-data/incoming_provider_feed.csv)
+- [Provider Reference](02-source-data/provider_reference.csv)
+- [Market Reference](02-source-data/market_reference.csv)
+- [Data Dictionary](02-source-data/data_dictionary.csv)
+
+### Excel Workbook
+
+[Download the Game Metadata Validation Workbook](03-excel-workbook/iGaming_Game_Metadata_Validation_Workbook.xlsx)
+
+The workbook includes the original feed, reference tables, cleaned dataset, issue log, validation results, exception queue, data quality report and game master dataset.
+
+### Project Documentation
+
+[View the Data Quality Project Report (PDF)](04-documentation/iGaming_Game_Metadata_Project_Report.pdf)
+
+---
+
+## Skills Demonstrated
+
+- iGaming game metadata management.
+- Provider reference and market data validation.
+- Data profiling and quality assessment.
+- Duplicate detection and discrepancy investigation.
+- Data cleaning and standardisation.
+- Excel-based automated validation.
+- Pivot Table analysis.
+- Cross-field consistency checks.
+- Issue logging and exception management.
+- Data quality reporting.
+- Database preparation and handover.
+
+## Project Scope and Limitations
+
+This is an independent training project using synthetic game records and simulated provider metadata.
+
+Real provider names are used for illustrative purposes, but the game titles, identifiers, RTP values, market rules and metadata are not verified representations of actual provider catalogues or commercial integrations.
+
+Proposed corrections requiring provider confirmation remain explicitly identified as provisional.
+
+The project does not represent professional experience working directly with the named game providers or an operational iGaming platform.
+
+---
+
+## Author
+
+Independent portfolio project developed to demonstrate practical data quality, game metadata management and data operations skills relevant to the iGaming industry.
