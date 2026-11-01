@@ -1,0 +1,101 @@
+game_id,game_name,provider,product_type,game_type,rtp_percent,volatility,features,release_date,market_codes,mobile_supported,status
+PP_0001,Pragmatic Demo Game 001,Pragmatic Play,Casino,Slot,96.97,,Wilds; Bonus Round,2021-11-24,EE;MT;GB;CW,Yes,Active
+PP_0002,Pragmatic Demo Game 002,Pragmatic Play,Casino,Slot,94.93,Low,Bonus Round; Wilds,2025-07-08,MT;EE;CW,No,Active
+PG_0003,Play'n Demo Game 003,Play'n GO,Casino,Slot,94.62,High,Free Spins; Bonus Round,2024-02-12,MT;EE;GB,Yes,Active
+HG_0004,Hacksaw Demo Game 004,Hacksaw Gaming,Casino,Slot,96.21,High,Bonus Round; Wilds,2021-01-22,MT;EE,Yes,Active
+PP_0005,Pragmatic Demo Game 005,Pragmatic Play,Casino,Live Casino,,N/A,Side Bets; Multiple Cameras,2023-03-12,GB;MT;CW,Yes,Active
+BG_0006,BGaming Demo Game 006,BGaming,Casino,Slot,96.14,Medium,Wilds; Tumbling Reels,2024-05-21,GB;MT;CW;EE,Yes,Active
+PP_0007,Pragmatic Demo Game 007,Pragmatic Play,Casino,Live Casino,,N/A,Side Bets; Multiple Cameras,2021-04-19,MT;EE;GB;CW,No,Active
+EV_0008,Evolution Demo Game 008,Evolution,Casino,Table Game,,N/A,Dealer Game; Multiple Betting Options,2025-09-09,CW;MT;GB;EE,Yes,Active
+EV_0009,Evolution Demo Game 009,Evolution,Casino,Table Game,,N/A,Dealer Game; Multiple Betting Options,2021-03-21,CW;MT,Yes,Active
+HG_0010,Hacksaw Demo Game 010,Hacksaw Gaming,Casino,Slot,96.38,Very High,Bonus Round; Multipliers,2025-01-22,EE;MT;GB;CW,Yes,Active
+HG_0010,Play'n Demo Game 011,Play'n GO,Casino,Slot,94.63,Low,Multipliers; Wilds,2025-02-28,MT;CW;EE;GB,No,Active
+EV_0012,Evolution Demo Game 012,Evolution,Casino,Live Casino,,N/A,Multiple Cameras; Side Bets,2024-01-04,MT;EE;CW,Yes,Active
+BG_0013,BGaming Demo Game 013,BGaming,Casino,Slot,94.34,Very High,Free Spins; Wilds,2022-11-16,GB;CW;MT;EE,Yes,Active
+PG_0014,Play'n Demo Game 014,Play'n GO,Casino,Slot,97.98,High,Tumbling Reels; Bonus Round,2021-04-08,MT;EE,Yes,Active
+BG_0015,BGaming Demo Game 015,BGaming,Casino,Slot,94.03,Low,Wilds; Free Spins,2021-06-03,GB;CW;MT;EE,Yes,Active
+BG_0016,BGaming Demo Game 016,BGaming,Casino,Table Game,,N/A,Dealer Game; Side Bets,2024-04-04,CW;GB,No,Active
+HG_0017,Hacksaw Demo Game 017,Hacksaw Gaming,Casino,Slot,97.46,Low,Free Spins; Bonus Round,2024-12-11,GB;EE,Yes,Active
+BG_0018,BGaming Demo Game 018,BGaming,Casino,Table Game,,N/A,Dealer Game; Side Bets,2022-05-15,EE;GB,Yes,Active
+PP_0019,Pragmatic Demo Game 019,Pragmatic Play,Casino,Virtual Sports,,N/A,Scheduled Events; Computer-Generated Outcomes,2022-03-14,CW;EE;GB,Yes,Active
+EV_0020,Evolution Demo Game 020,Evolution,Casino,Table Game,,N/A,Dealer Game; Side Bets,2023-08-10,CW;EE;MT,No,Active
+EV_0021,Evolution Demo Game 021,Evolution,Casino,Live Casino,,N/A,Multiple Cameras; Live Dealer,2023-01-02,CW;MT;EE;GB,Yes,Active
+EV_0022,Evolution Demo Game 022,Evolution,Casino,Live Casino,,N/A,Multiple Cameras; Live Dealer,2022-07-04,GB;MT;EE;CW,No,Active
+BG_0023,BGaming Demo Game 023,BGaming,Casino,Table Game,,N/A,Side Bets; Dealer Game,2023-04-09,GB;MT;CW,No,Active
+PG_0024,Play'n Demo Game 024,Play'n GO,Casino,Slot,94.04,Low,Free Spins; Wilds,2025-05-05,EE;CW;GB,No,Active
+EV_0025,Evolution Demo Game 025,Evolution,Casino,Table Game,,N/A,Multiple Betting Options; Side Bets,2025-11-17,MT;CW,Yes,Active
+EV_0026,Evolution Demo Game 026,Evolution,Casino,Table Game,,N/A,Dealer Game; Multiple Betting Options,2025-03-09,GB;MT;CW,Yes,Active
+PG_0027,Play'n Demo Game 027,Play'n GO,Casino,Slot,95.0,Low,Free Spins; Tumbling Reels,2023-01-01,GB;MT;CW,Yes,Active
+HG_0028,Hacksaw Demo Game 028,Hacksaw Gaming,Casino,Slot,0.9624,Low,Free Spins; Wilds,2025-01-27,GB;CW;EE,Yes,Active
+PG_0029,Play'n Demo Game 029,Play'n GO,Casino,Slot,97.6,Low,Multipliers; Wilds,2022-11-04,CW;MT;EE,Yes,Active
+EV_0030,Evolution Demo Game 030,Evolution,Casino,Live Casino,,N/A,Side Bets; Live Dealer,2022-12-11,GB;CW;EE,Yes,Active
+HG_0031,Hacksaw Demo Game 031,Hacksaw Gaming,Casino,Slot,97.43,Medium,Wilds; Tumbling Reels,2023-05-27,GB;EE,Yes,Active
+HG_0032,Hacksaw Demo Game 032,Hacksaw Gaming,Casino,Slot,95.11,Low,Multipliers; Bonus Round,2025-07-22,MT;EE;CW;GB,Yes,Active
+BG_0033,BGaming Demo Game 033,BGaming,Casino,Table Game,,N/A,Dealer Game; Multiple Betting Options,2025-07-12,MT;GB;EE;CW,Yes,Active
+PG_0034,Play'n Demo Game 034,Play'n GO,Casino,Slot,96.84,Low,Bonus Round; Wilds,2023-07-03,MT;CW;GB;EE,No,Active
+BG_0035,BGaming Demo Game 035,BGaming,Casino,Table Game,,N/A,Multiple Betting Options; Side Bets,2023-07-23,GB;EE;CW,No,Active
+EV_0036,Evolution Demo Game 036,PragmaticPlay,Casino,Table Game,,N/A,Side Bets; Dealer Game,2023-05-07,MT;GB;CW,No,Active
+EV_0037,Evolution Demo Game 037,Evolution,Casino,Table Game,,N/A,Multiple Betting Options; Dealer Game,2021-05-17,MT;EE;CW;GB,Yes,Active
+EV_0038,Evolution Demo Game 038,Evolution,Casino,Live Casino,,N/A,Live Dealer; Multiple Cameras,2022-08-20,CW;GB,Yes,Active
+HG_0039,Hacksaw Demo Game 039,Hacksaw Gaming,Casino,Slot,95.6,Medium,Free Spins; Bonus Round,2024-04-06,CW;EE;MT;GB,No,Active
+EV_0040,Evolution Demo Game 040,Evolution,Casino,Table Game,,N/A,Multiple Betting Options; Side Bets,2024-10-27,CW;MT;GB;EE,No,Active
+HG_0041,Hacksaw Demo Game 041,Hacksaw Gaming,Casino,Slot,97.01,High,Bonus Round; Tumbling Reels,2022-05-15,MT;EE,No,Active
+PG_0042,Play'n Demo Game 042,Play'n GO,Casino,Slot,97.57,Low,Wilds; Bonus Round,2022-07-23,GB;EE,No,Active
+HG_0043,Hacksaw Demo Game 043,Hacksaw Gaming,Casino,,96.17,Very High,Free Spins; Wilds,2024-07-25,EE;MT;GB;CW,Yes,Active
+PG_0044,Play'n Demo Game 044,Play'n GO,Casino,Slot,97.01,Very High,Bonus Round; Wilds,2024-04-09,CW;EE;GB,No,Active
+HG_0045,Hacksaw Demo Game 045,Hacksaw Gaming,Casino,Slot,97.36,Medium,Bonus Round; Free Spins,2024-10-19,EE;CW;GB;MT,No,Active
+EV_0046,Evolution Demo Game 046,Evolution,Casino,Live Casino,,N/A,Side Bets; Multiple Cameras,2023-04-15,MT;GB;CW,No,Active
+PG_0047,Play'n Demo Game 047,Play'n GO,Casino,Slot,95.88,Low,Multipliers; Wilds,2021-11-02,GB;EE,Yes,Active
+BG_0048,BGaming Demo Game 048,BGaming,Casino,Slot,94.95,Very High,Free Spins; Wilds,2024-12-09,GB;MT;EE,Yes,Active
+PG_0049,Play'n Demo Game 049,Play'n GO,Casino,Slot,96.31,High,Bonus Round; Tumbling Reels,2024-12-07,GB;EE,No,Active
+BG_0050,BGaming Demo Game 050,BGaming,Casino,Slot,97.18,Low,Multipliers; Tumbling Reels,2023-02-17,MT;EE;GB;CW,Yes,Active
+HG_0051,Hacksaw Demo Game 051,Hacksaw Gaming,Casino,Slot,96.54,Very High,Wilds; Tumbling Reels,2022-12-17,MT;CW;GB;EE,No,Active
+BG_0052,BGaming Demo Game 052,BGaming,Casino,Table Game,,N/A,Side Bets; Dealer Game,2021-05-15,CW;MT,No,Active
+PG_0053,Play'n Demo Game 053,Play'n GO,Casino,Slot,95.98,High,Wilds; Tumbling Reels,2022-06-26,MT;GB;CW,Yes,Active
+BG_0054,BGaming Demo Game 054,BGaming,Casino,Slot,94.34,Very High,Tumbling Reels; Wilds,2024-11-23,EE;GB;XX,No,Active
+EV_0055,Evolution Demo Game 055,Evolution,Casino,Table Game,,N/A,Multiple Betting Options; Dealer Game,2023-11-19,CW;MT;GB,No,Active
+BG_0056,BGaming Demo Game 056,BGaming,Casino,Table Game,,N/A,Side Bets; Multiple Betting Options,2023-05-09,EE;MT,Yes,Active
+PG_0057,Play'n Demo Game 057,Play'n GO,Casino,Slot,96.97,Medium,Wilds; Bonus Round,2024-05-24,MT;EE;CW;GB,Yes,Active
+PG_0058,Play'n Demo Game 058,Play'n GO,Casino,Slot,95.21,Medium,Multipliers; Free Spins,2021-09-10,GB;MT;CW;EE,Yes,Active
+BG_0059,BGaming Demo Game 059,BGaming,Casino,Table Game,,N/A,Side Bets; Multiple Betting Options,2024-06-06,MT;GB,Yes,Active
+PP_0060,Pragmatic Demo Game 060,Pragmatic Play,Casino,Live Casino,,N/A,Side Bets; Live Dealer,2025-11-22,GB;EE,No,Active
+PP_0061,Pragmatic Demo Game 061,Pragmatic Play,Casino,Slot,94.47,Very High,Bonus Round; Wilds,2025-07-15,MT;CW;GB,No,Active
+BG_0062,BGaming Demo Game 062,BGaming,Casino,Slot,96.44,Low,Wilds; Bonus Round,2023-11-03,GB;EE,Yes,Active
+EV_0063,Evolution Demo Game 063,Evolution,Casino,Live Casino,,N/A,Side Bets; Multiple Cameras,2025-08-10,GB;CW,No,Active
+HG_0064,Hacksaw Demo Game 064,Hacksaw Gaming,Casino,Slot,96.75,High,Bonus Round; Wilds,2024-02-18,GB;CW,Yes,Active
+PP_0065,Pragmatic Demo Game 065,Pragmatic Play,Casino,Slot,94.66,High,Bonus Round; Multipliers,2024-02-15,MT;CW;GB;EE,No,Active
+HG_0066,Hacksaw Demo Game 066,Hacksaw Gaming,Casino,Slot,96.39,Very High,Multipliers; Bonus Round,2021-02-08,EE;MT;GB;CW,Yes,Active
+HG_0067,Hacksaw Demo Game 067,Hacksaw Gaming,Casino,Slots,97.66,Medium,Bonus Round; Tumbling Reels,2024-02-16,CW;GB;MT,Yes,Active
+EV_0068,Evolution Demo Game 068,Evolution,Casino,Table Game,,N/A,Side Bets; Multiple Betting Options,2023-11-13,EE;GB;CW;MT,No,Active
+PG_0069,Play'n Demo Game 069,Play'n GO,Casino,Slot,97.88,Very High,Bonus Round; Free Spins,2025-08-14,GB;MT,No,Active
+BG_0070,BGaming Demo Game 070,BGaming,Casino,Table Game,,N/A,Multiple Betting Options; Side Bets,2021-04-09,GB;CW;MT;EE,Yes,Active
+PP_0071,Pragmatic Demo Game 071,Pragmatic Play,Casino,Virtual Sports,97.83,N/A,Scheduled Events; Computer-Generated Outcomes,2023-09-01,CW;EE;MT;GB,No,Active
+PP_0072,Pragmatic Demo Game 072,Pragmatic Play,Casino,Virtual Sports,98.5,N/A,Computer-Generated Outcomes; Scheduled Events,2025-12-09,CW;GB;EE,No,Active
+BG_0073,BGaming Demo Game 073,BGaming,Casino,Slot,95.53,Medium,Free Spins; Multipliers,2024-06-26,MT;EE;GB;CW,No,Active
+EV_0074,Evolution Demo Game 074,Evolution,Casino,Table Game,,N/A,Multiple Betting Options; Side Bets,2023-06-18,CW;GB;MT;EE,Yes,Active
+BG_0075,BGaming Demo Game 075,BGaming,Casino,Table Game,,N/A,Dealer Game; Side Bets,2021-06-24,CW;GB;EE,No,Active
+PP_0076,Pragmatic Demo Game 076,Pragmatic Play,Casino,Slot,96.01,High,Free Spins; Tumbling Reels,2021-09-15,GB;CW,Yes,Active
+PP_0077,Pragmatic Demo Game 077,Pragmatic Play,Casino,Live Casino,,N/A,Side Bets; Multiple Cameras,2025-12-13,EE;GB;MT;CW,No,Active
+BG_0078,BGaming Demo Game 078,BGaming,Casino,Slot,96.47,Medium,Multipliers; Wilds,31/31/2024,EE;GB;CW;MT,Yes,Active
+PP_0079,Pragmatic Demo Game 079,Pragmatic Play,Casino,Live Casino,,N/A,Live Dealer; Side Bets,2023-06-14,GB;MT,No,Active
+BG_0080,BGaming Demo Game 080,BGaming,Casino,Slot,94.68,Low,Bonus Round; Tumbling Reels,2025-11-08,GB;EE;CW,No,Active
+HG_0081,Hacksaw Demo Game 081,Hacksaw Gaming,Casino,Slot,96.67,Very High,Multipliers; Wilds,2021-08-12,MT;CW;GB;EE,No,Active
+PG_0082,Play'n Demo Game 082,Play'n GO,Casino,Slot,98.0,Very High,Free Spins; Wilds,2024-10-12,MT;CW;GB;EE,No,Active
+PG_0083,Play'n Demo Game 083,Play'n GO,Casino,Slot,96.26,Low,Bonus Round; Tumbling Reels,2023-04-20,GB;MT;EE,No,Active
+EV_0084,Evolution Demo Game 084,Evolution,Casino,Live Casino,,N/A,Multiple Cameras; Live Dealer,2023-08-02,MT;CW;EE;GB,No,Active
+PG_0085,Play'n Demo Game 085,Play'n GO,Casino,Slot,94.7,Medium,Bonus Round; Multipliers,2025-09-09,MT;GB,No,Active
+PG_0086,Play'n Demo Game 086,Play'n GO,Casino,Slot,95.87,Low,Wilds; Bonus Round,2024-09-12,CW;EE,No,Active
+BG_0087,BGaming Demo Game 087,BGaming,Casino,Slot,95.82,High,Bonus Round; Tumbling Reels,2023-02-22,CW;EE,No,Active
+BG_0088,BGaming Demo Game 088,BGaming,Casino,Slot,96.59,Very High,Multipliers; Tumbling Reels,2021-03-02,MT;GB,Yes,Active
+PP_0089,Pragmatic Demo Game 089,,Casino,Slot,97.55,Medium,Tumbling Reels; Bonus Round,2023-11-24,CW;MT;EE;GB,Yes,Active
+HG_0090,Hacksaw Demo Game 090,Hacksaw Gaming,Casino,Slot,97.76,High,Free Spins; Multipliers,2022-08-15,MT;EE,No,Active
+BG_0091,BGaming Demo Game 091,BGaming,Casino,Table Game,,N/A,Dealer Game; Side Bets,2023-04-04,EE;MT;CW,Yes,Active
+PP_0092,Pragmatic Demo Game 092,Pragmatic Play,Casino,Live Casino,,N/A,Live Dealer; Multiple Cameras,2025-04-03,GB;MT;EE;CW,No,Active
+EV_0093,Evolution Demo Game 093,Evolution,Casino,Live Casino,,N/A,Side Bets; Live Dealer,2022-09-09,EE;MT,Yes,Active
+EV_0094,Evolution Demo Game 094,Evolution,Casino,Live Casino,,N/A,Side Bets; Live Dealer,2025-06-01,MT;EE,Yes,Active
+HG_0095,Hacksaw Demo Game 095,Hacksaw Gaming,Casino,Slot,96.98,Very High,Tumbling Reels; Multipliers,2025-10-04,GB;MT;EE,No,Active
+HG_0096,Hacksaw Demo Game 096,Hacksaw Gaming,Casino,Slot,94.24,Very High,Tumbling Reels; Bonus Round,2021-08-23,EE;CW;GB,Yes,Active
+PP_0097,Pragmatic Demo Game 097,Pragmatic Play,Casino,Slot,95.1,High,Tumbling Reels; Multipliers,2024-09-20,EE;MT;CW,Yes,Active
+HG_0098,Hacksaw Demo Game 098,Hacksaw Gaming,Casino,Slot,97.55,Very High,Multipliers; Tumbling Reels,2024-07-24,MT;GB,No,Active
+PG_0099,Play'n Demo Game 099,Play'n GO,Casino,Slot,97.81,Very High,Free Spins; Bonus Round,2021-02-14,MT;EE,Yes,Active
+BG_0100,BGaming Demo Game 100,BGaming,Casino,Table Game,,N/A,Multiple Betting Options; Dealer Game,2024-06-28,CW;MT;EE;GB,No,Active
