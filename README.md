@@ -89,7 +89,7 @@ Developed reusable Excel formulas to validate game metadata, including:
 - `TEXTSPLIT`
 - `ISNUMBER`
 - `ISTEXT`
-- `IF` and `LET`
+- `IF`
 
 Used Pivot Tables to analyse missing values and compare data quality across providers.
 
